@@ -11,7 +11,7 @@ Snowflake · dbt · SQL · SQL Server · Oracle · PL/SQL · Power BI · DAX · 
 ## Experience
 
 - **FlairsTech** — Analytics Engineer (Cairo)
-- **Dukan** — Business Intelligence Developer (Contract, Remote)
+- **Dukan** — Business Intelligence Developer (Contract, KSA)
 - **QNB AL-AHLI** — E-Business Reporting Executive (Cairo)
 - **IntraZero** — Frontend Developer / System Analyst (Cairo)
 
