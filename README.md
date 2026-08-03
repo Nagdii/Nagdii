@@ -2,7 +2,7 @@
 
 **Analytics Engineer | BI Developer**
 
-3+ years building end-to-end analytics solutions across Snowflake, dbt, and Power BI — owning the pipeline from raw source to decision-ready dashboard for international stakeholders in Banking, E-commerce, and Outsourcing.
+3+ years building end-to-end analytics solutions across Snowflake, dbt, and Power BI — owning the pipeline from raw source to decision-ready dashboard for international stakeholders.
 
 ## Stack
 
