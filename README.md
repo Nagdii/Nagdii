@@ -10,7 +10,8 @@ Snowflake · dbt · SQL · SQL Server · Oracle · PL/SQL · Power BI · DAX · 
 
 ## Experience
 
-- **FlairsTech** — Analytics Engineer II (Cairo) · Senior Analytics Consultant for **Dynamite**
+- **FlairsTech** — Analytics Engineer II (Cairo)
+- **Dynamite** — Senior Analytics Consultant (Contract, Canada)
 - **Dukan** — Business Intelligence Developer (Contract, KSA)
 - **QNB AL-AHLI** — E-Business Reporting Executive (Cairo)
 - **IntraZero** — Frontend Developer / System Analyst (Cairo)
